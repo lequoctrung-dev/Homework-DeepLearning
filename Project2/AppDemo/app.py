@@ -97,8 +97,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---- 2. ĐƯỜNG ỐNG TELEGRAM & HỆ TRI THỨC NÔNG NGHIỆP TOÀN DIỆN ----
-TELEGRAM_TOKEN = "8943065384:AAG1PA8ZjJmBCrJkumgRdBYrsCVjTOVwszo"
-TELEGRAM_CHAT_ID = "8449019890"
+TELEGRAM_TOKEN = ""
+TELEGRAM_CHAT_ID = ""
 
 PEST_KNOWLEDGE = {
     'Sau_cuon_la_nho': {'vn': 'Sâu cuốn lá nhỏ', 'sci': 'Cnaphalocrocis medinalis', 'info': 'Cuốn bẹ lá lúa thành tổ và cắn phá mô lá, làm suy giảm nghiêm trọng khả năng quang hợp.', 'action': 'Sử dụng chế phẩm sinh học Bt hoặc bảo vệ ong ký sinh khống chế mật độ.'},
