@@ -1,0 +1,10 @@
+# Chặn thư mục môi trường ảo
+env/
+
+# Chặn file cấu hình chứa thông tin bảo mật
+.env
+
+# Chặn các file tạm sinh ra trong quá trình chạy code
+temp_video.mp4
+__pycache__/
+*.pyc
